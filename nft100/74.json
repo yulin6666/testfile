@@ -1,0 +1,55 @@
+{
+  "name": "1000nft_2022_lin #74",
+  "description": "lin's fist 1000nft",
+  "file_url": "https://ipfs.io/ipfs/bafkreifnizk5m6g6lwp325ytihfvtziyixdp4l6oyucxnqazjbunl3r3fi",
+  "image": "https://ipfs.io/ipfs/bafkreifnizk5m6g6lwp325ytihfvtziyixdp4l6oyucxnqazjbunl3r3fi",
+  "attributes": [
+    {
+      "trait_type": "1-background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "2-suit",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "3-shoulder",
+      "value": "USA"
+    },
+    {
+      "trait_type": "4-pin",
+      "value": "LunaBluePin"
+    },
+    {
+      "trait_type": "5-skin",
+      "value": "Skull"
+    },
+    {
+      "trait_type": "6-facial-hair",
+      "value": "NoFacialHair"
+    },
+    {
+      "trait_type": "7-mask",
+      "value": "Mask"
+    },
+    {
+      "trait_type": "8-hair",
+      "value": "BlondeBun"
+    },
+    {
+      "trait_type": "9-accessories",
+      "value": "NoAcc"
+    },
+    {
+      "trait_type": "10-headwear",
+      "value": "GlassDome"
+    }
+  ],
+  "custom_fields": {
+    "dna": "6f40bc5e77646f514d0424b63da93f2201affe0d",
+    "edition": 74,
+    "date": 1659353486725,
+    "compiler": "HashLips Art Engine - codeSTACKr Modified"
+  },
+  "external_url": "https://1000linnft.xyz"
+}
